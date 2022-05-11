@@ -1,0 +1,150 @@
+
+
+
+{
+    "students" : [
+        {
+            "name" : "Apu Barua",
+            "roll" : 1,
+            "st_class" : 3,
+            "location" : "Mohakhali",
+            "isProgramming" : true
+        },
+        {
+            "name" : "Shanta Barua",
+            "roll" : 2,
+            "st_class" : 3,
+            "location" : "Mirpur",
+            "isProgramming" : true
+        },
+        {
+            "name" : "Shimul Barua",
+            "roll" : 3,
+            "st_class" : 4,
+            "location" : "Gulshan-1",
+            "isProgramming" : false
+        },
+        {
+            "name" : "Nijhum Barua",
+            "roll" : 4,
+            "st_class" : 4,
+            "location" : "Mohakhali",
+            "isProgramming" : true
+        },
+        {
+            "name" : "Kanak Barua",
+            "roll" : 5,
+            "st_class" : 4,
+            "location" : "Mohakhali",
+            "isProgramming" : true
+        },
+        {
+            "name" : "Bikash Barua",
+            "roll" : 6,
+            "st_class" : 6,
+            "location" : "Banani",
+            "isProgramming" : true
+        },
+        {
+            "name" : "Mukta Barua",
+            "roll" : 7,
+            "st_class" : 4,
+            "location" : "Bashundhara",
+            "isProgramming" : false
+        },
+        {
+            "name" : "Pushpita Barua",
+            "roll" : 8,
+            "st_class" : 3,
+            "location" : "Karwan Bazar",
+            "isProgramming" : false
+        },
+        {
+            "name" : "Sinju Barua",
+            "roll" : 9,
+            "st_class" : 5,
+            "location" : "Mohakhali",
+            "isProgramming" : false
+        },
+        {
+            "name" : "Lila Barua",
+            "roll" : 10,
+            "st_class" : 8,
+            "location" : "Mirpur",
+            "isProgramming" : true
+        }
+    ],
+
+    "teacher" : [
+        {
+            "name" : "Anup Barua",
+            "id" : 1,
+            "location" : "Banani",
+            "designation" : "Eye-Consaltant",
+            "hospital" : "United Hospital"
+        },
+        {
+            "name" : "Uttom Barua",
+            "id" : 2,
+            "location" : "Dhanmondi",
+            "designation" : "Liver-Consaltant",
+            "hospital" : "Square Hospital"
+        },
+        {
+            "name" : "Sarmin Islam",
+            "id" : 3,
+            "location" : "Mohakhali",
+            "designation" : "Kidney-Consaltant",
+            "hospital" : "Universal Hospital"
+        },
+        {
+            "name" : "Farjana Yesmen",
+            "id" : 4,
+            "location" : "Taltola",
+            "designation" : "Heart-Consaltant",
+            "hospital" : "United Hospital"
+        },
+        {
+            "name" : "Apu Barua",
+            "id" : 5,
+            "location" : "Banani",
+            "designation" : "Heart-Consaltant",
+            "hospital" : "Square Hospital"
+        },
+        {
+            "name" : "Lucky Barua",
+            "id" : 6,
+            "location" : "Mirpur",
+            "designation" : "Eye-Consaltant",
+            "hospital" : "Bangladesh Eye Hospital"
+        },
+        {
+            "name" : "Jamal Hossain",
+            "id" : 7,
+            "location" : "Karwan Bazar",
+            "designation" : "Heart-Consaltant",
+            "hospital" : "BRB Hospital"
+        },
+        {
+            "name" : "Jisan Islam",
+            "id" : 8,
+            "location" : "Bangla Motor",
+            "designation" : "Skin-Consaltant",
+            "hospital" : "Bangladesh Skin Hospital"
+        },
+        {
+            "name" : "Najib Hasan",
+            "id" : 9,
+            "location" : "Airport",
+            "designation" : "Liver-Consaltant",
+            "hospital" : "United Hospital"
+        },
+        {
+            "name" : "Joti Rahman",
+            "id" : 10,
+            "location" : "Mirpur",
+            "designation" : "Eye-Consaltant",
+            "hospital" : "United Eye Hospital"
+        }
+    ]
+}
